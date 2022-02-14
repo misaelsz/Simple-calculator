@@ -47,11 +47,6 @@ namespace Studyng_English
                 result = num1 * num2;
                 Console.WriteLine("your result is: " + result);
             }
-            if (varOperator.Equals("*"))
-            {
-                result = num1 * num2;
-                Console.WriteLine("your result is: " + result);
-            }
 
         }
     }
